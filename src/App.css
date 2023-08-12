@@ -1,0 +1,9 @@
+body {
+  background-color: #000000;
+  position: relative;
+}
+
+.App {
+  color: #EEEDED;
+  font-family: 'Outfit', sans-serif;
+}

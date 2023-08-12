@@ -1,0 +1,10 @@
+.movie-links {
+    text-align: center;
+    font-size: 350%;
+    width: 100%;
+    padding: 30px 0 100px;
+}
+
+.link-item {
+    margin: 0 10% ;
+}

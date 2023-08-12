@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script:wght@700&display=swap');
+
+.header {
+    margin: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.heading {
+    color: #E7B10A;
+    margin: 10px;
+    font-size: 4rem;
+    font-family: 'Oleo Script', cursive;
+}
+
+.header-item {
+    color: #EEEDED;
+    font-size: 1.5rem;
+    margin: 25px;
+    float: right;
+}
+
+.header-item:hover {
+    color: #B31312;
+}
