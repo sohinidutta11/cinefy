@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/cinefy/static/css/main.3dbf2caf.css",
-    "main.js": "/cinefy/static/js/main.8c475c26.js",
-    "index.html": "/cinefy/index.html",
-    "main.3dbf2caf.css.map": "/cinefy/static/css/main.3dbf2caf.css.map",
-    "main.8c475c26.js.map": "/cinefy/static/js/main.8c475c26.js.map"
+    "main.css": "/static/css/main.3dbf2caf.css",
+    "main.js": "/static/js/main.8c475c26.js",
+    "index.html": "/index.html",
+    "main.3dbf2caf.css.map": "/static/css/main.3dbf2caf.css.map",
+    "main.8c475c26.js.map": "/static/js/main.8c475c26.js.map"
   },
   "entrypoints": [
     "static/css/main.3dbf2caf.css",
